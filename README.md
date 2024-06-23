@@ -1,5 +1,7 @@
 # paru :: parametric-automated remix utility
 
+HOSTED here: https://s2stoo.com/
+
 ## Demo :: https://www.youtube.com/watch?v=y_zCj2Neh2w
 
 ### Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
