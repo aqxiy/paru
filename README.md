@@ -5,9 +5,7 @@ HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin 
 ### Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
 [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]
 
-### Want to give it a shot?
-
-## Download all files as zip, extract to folder; Within extracted folder, keep song1.mp3 or replace with another audio file also named song1.mp3. Open index.html with Brave. Once open, press 't' key. To stop music, refresh. After refresh, can restart with 't'. 
+## // 
 
 I'll try my best to explain the workings:
 
