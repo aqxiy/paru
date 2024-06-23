@@ -2,8 +2,6 @@
 
 HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin play of song]
 
-## Demo :: https://www.youtube.com/watch?v=y_zCj2Neh2w
-
 ### Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
 [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]
 
