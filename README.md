@@ -1,6 +1,6 @@
 # paru :: parametric-automated remix utility
 
-HOSTED here: https://s2stoo.com/
+HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin play of song]
 
 ## Demo :: https://www.youtube.com/watch?v=y_zCj2Neh2w
 
